@@ -1,6 +1,6 @@
 # PATIENT-MANAGEMENT-SYSTEM
-This is a project for Library Management System, using the concepts of programming fundamentals using c++
-This includes features like:
+This is a project for Library Management System, using the concepts of programming fundamentals using C++
+**This includes features like:**
 
 - adding patients
 - displaying previous patients
